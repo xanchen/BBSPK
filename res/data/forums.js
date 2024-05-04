@@ -921,6 +921,17 @@ const db_forums = [
         hasNetSec: "no",
         note: "非大陆服务器。",
         reference: []
+    },
+    {
+        title: "GoodestPE",
+        url: "https://goodestpe.cn",
+        state: "up",
+        createdAt: "2023/06/29",
+        updatedAt: "2024/05/04",
+        hasICP: "no",
+        hasNetSec: "no",
+        note: "非大陆服务器。我的世界基岩版论坛",
+        reference: []
     }
 ];
 
